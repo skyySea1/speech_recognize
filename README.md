@@ -19,7 +19,7 @@ Para executar este projeto, você precisará instalar as seguintes bibliotecas:
 Você pode instalar todas as dependências necessárias com o seguinte comando:
 
 ```bash
-pip install speech_recognition pyttsx3
+pip install speech_recognition pyttsx3```
 
 Como Usar?
 
