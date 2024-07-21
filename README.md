@@ -2,7 +2,7 @@
 
 # Speech Recognizer
 
-Este projeto é uma aplicação Python simples que utiliza reconhecimento de voz e síntese de fala para interagir com o usuário. Ele escuta comandos de voz em português e responde verbalmente.
+Este projeto é uma aplicação Python simples que utiliza reconhecimento de voz e síntese de fala para interagir com o usuário. Ele escuta comandos de voz em português e responde verbalmente algumas frases
 
 ## Funcionalidades
 
@@ -18,10 +18,9 @@ Para executar este projeto, você precisará instalar as seguintes bibliotecas:
 
 Você pode instalar todas as dependências necessárias com o seguinte comando:
 
-```bash
-pip install speech_recognition pyttsx3```
+```pip install speech_recognition pyttsx3```
 
-Como Usar?
+## Como Usar?
 
 Certifique-se de que todas as dependências estão instaladas.
 Execute o script speechrecognize.py.
