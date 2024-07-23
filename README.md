@@ -9,6 +9,8 @@ Este projeto é uma aplicação Python simples que utiliza reconhecimento de voz
 - **Reconhecimento de Voz:** Escuta comandos de voz do usuário.
 - **Síntese de Fala:** Responde ao usuário com voz sintetizada.
 
+  observação: o reconhecimento não acontece em tempo real e a biblioteca precisa de alguns segundos, até reconhecer o que foi dito.
+
 ## Dependências
 
 Para executar este projeto, você precisará instalar as seguintes bibliotecas:
