@@ -1,4 +1,4 @@
-
+## Speech Recongnizere and Parrot
 
 # Speech Recognizer
 
@@ -35,3 +35,9 @@ run_jarvis(): Inicia o loop principal do programa, escutando e respondendo a com
 Limitações
 O tempo de espera para o comando de voz é de 5 segundos.
 A aplicação está configurada para entender comandos em português do Brasil (pt-BR).
+
+### EXTRA: The Parrot
+
+Essa funcionalidade reconhece a fala dita, armaeza em um arquivo, e o reproduz
+-VocÊ Pode configurar para ele aprender e armazenar o que disse (útil para treiná-lo) ou excluir o arquivo após reprodução
+execute `Python_parrot`
