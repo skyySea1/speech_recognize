@@ -27,14 +27,14 @@ Você pode instalar todas as dependências necessárias com o seguinte comando:
 Certifique-se de que todas as dependências estão instaladas.
 Execute o script speechrecognize.py.
 Fale claramente ao microfone quando solicitado.
-O programa tentará reconhecer seu comando de voz e responderá verbalmente.
+O programa tentará reconhecer seu comando de voz e responder.
 Funções Principais
 falar(texto): Recebe um texto e o reproduz usando síntese de fala.
 ouvir(): Escuta o ambiente em busca de comandos de voz e tenta reconhecê-los.
 run_jarvis(): Inicia o loop principal do programa, escutando e respondendo a comandos de voz continuamente.
 Limitações
 O tempo de espera para o comando de voz é de 5 segundos.
-A aplicação está configurada para entender comandos em português do Brasil (pt-BR).
+A aplicação está configurada para entender comandos em português
 
 ### EXTRA: The Parrot
 
